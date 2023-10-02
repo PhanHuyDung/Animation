@@ -1,0 +1,202 @@
+
+muoi.png
+size: 228,48
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+blue/acc
+  rotate: false
+  xy: 74, 4
+  size: 7, 7
+  orig: 7, 7
+  offset: 0, 0
+  index: -1
+blue/body
+  rotate: false
+  xy: 2, 13
+  size: 28, 33
+  orig: 28, 33
+  offset: 0, 0
+  index: -1
+blue/hand
+  rotate: false
+  xy: 152, 6
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+blue/horn
+  rotate: true
+  xy: 210, 33
+  size: 13, 16
+  orig: 13, 16
+  offset: 0, 0
+  index: -1
+blue/nail
+  rotate: true
+  xy: 66, 2
+  size: 9, 6
+  orig: 9, 6
+  offset: 0, 0
+  index: -1
+pink/nail
+  rotate: true
+  xy: 66, 2
+  size: 9, 6
+  orig: 9, 6
+  offset: 0, 0
+  index: -1
+turquoise/nail
+  rotate: true
+  xy: 66, 2
+  size: 9, 6
+  orig: 9, 6
+  offset: 0, 0
+  index: -1
+blue/teeth
+  rotate: false
+  xy: 2, 2
+  size: 14, 9
+  orig: 14, 9
+  offset: 0, 0
+  index: -1
+blue/wing
+  rotate: false
+  xy: 122, 20
+  size: 20, 26
+  orig: 20, 26
+  offset: 0, 0
+  index: -1
+bullet
+  rotate: false
+  xy: 208, 6
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+pink/acc
+  rotate: false
+  xy: 83, 4
+  size: 7, 7
+  orig: 7, 7
+  offset: 0, 0
+  index: -1
+pink/body
+  rotate: false
+  xy: 32, 13
+  size: 28, 33
+  orig: 28, 33
+  offset: 0, 0
+  index: -1
+pink/hand
+  rotate: false
+  xy: 166, 6
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+pink/horn
+  rotate: true
+  xy: 210, 18
+  size: 13, 16
+  orig: 13, 16
+  offset: 0, 0
+  index: -1
+pink/teeth
+  rotate: false
+  xy: 18, 2
+  size: 14, 9
+  orig: 14, 9
+  offset: 0, 0
+  index: -1
+pink/wing
+  rotate: false
+  xy: 144, 20
+  size: 20, 26
+  orig: 20, 26
+  offset: 0, 0
+  index: -1
+red/acc
+  rotate: false
+  xy: 92, 4
+  size: 7, 7
+  orig: 7, 7
+  offset: 0, 0
+  index: -1
+red/body
+  rotate: false
+  xy: 62, 13
+  size: 28, 33
+  orig: 28, 33
+  offset: 0, 0
+  index: -1
+red/hand
+  rotate: false
+  xy: 180, 6
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+red/horn
+  rotate: false
+  xy: 122, 2
+  size: 13, 16
+  orig: 13, 16
+  offset: 0, 0
+  index: -1
+red/teeth
+  rotate: false
+  xy: 34, 2
+  size: 14, 9
+  orig: 14, 9
+  offset: 0, 0
+  index: -1
+red/wing
+  rotate: false
+  xy: 166, 20
+  size: 20, 26
+  orig: 20, 26
+  offset: 0, 0
+  index: -1
+turquoise/acc
+  rotate: false
+  xy: 101, 4
+  size: 7, 7
+  orig: 7, 7
+  offset: 0, 0
+  index: -1
+turquoise/body
+  rotate: false
+  xy: 92, 13
+  size: 28, 33
+  orig: 28, 33
+  offset: 0, 0
+  index: -1
+turquoise/hand
+  rotate: false
+  xy: 194, 6
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+turquoise/horn
+  rotate: false
+  xy: 137, 2
+  size: 13, 16
+  orig: 13, 16
+  offset: 0, 0
+  index: -1
+turquoise/teeth
+  rotate: false
+  xy: 50, 2
+  size: 14, 9
+  orig: 14, 9
+  offset: 0, 0
+  index: -1
+turquoise/wing
+  rotate: false
+  xy: 188, 20
+  size: 20, 26
+  orig: 20, 26
+  offset: 0, 0
+  index: -1
